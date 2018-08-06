@@ -6,4 +6,4 @@
 #### create your own [Regular Expression](https://regexr.com)
 ### Live (GitHub-Flavored) [Markdown Editor](https://jbt.github.io/markdown-editor/)
 #### Learn Beginner [Python](https://www.datacamp.com/home)
-### Difference between notify() and notifyAll() in java[Link1](https://www.geeksforgeeks.org/difference-notify-notifyall-java/) and [Link2](https://stackoverflow.com/questions/37026/java-notify-vs-notifyall-all-over-again)
+### Difference between notify() and notifyAll() in java [Link1](https://www.geeksforgeeks.org/difference-notify-notifyall-java/) and [Link2](https://stackoverflow.com/questions/37026/java-notify-vs-notifyall-all-over-again)
